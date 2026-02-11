@@ -17,30 +17,21 @@
 - 📫 Reach me on LinkedIn or email
 
 ---
-
-### 🔧 Tech Stack
-
 ## 🚀 Tech Stack
 
-### 🎨 Frontend
-<p>
+<p align="center">
+
+### 🎨 Frontend  
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
 
----
-
-### ⚙️ Backend
-<p>
+### ⚙️ Backend  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
 
----
-
-### 🛠️ Tools
-<p>
+### 🛠️ Tools  
 <img src="https://skillicons.dev/icons?i=git,github,vite" />
-<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
 </p>
+
 
 
 ---
