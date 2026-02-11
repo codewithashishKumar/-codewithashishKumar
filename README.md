@@ -2,9 +2,7 @@
 <p align="center">Front-End Developer | JavaScript | React | Open Source</p>
 
 <p align="center">
-  <a href="https://codewithashishkumar.com">Website</a> •
-  <a href="https://linkedin.com/in/ashishkumar">LinkedIn</a> •
-  <a href="https://twitter.com/codewithashishKumar">Twitter</a>
+  <a href="[https://codewithashishkumar.com](https://self-portfolio-sepia.vercel.app/)">Website</a> 
 </p>
 
 ---
