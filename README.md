@@ -37,14 +37,14 @@ Front-End Developer passionate about crafting **modern, responsive, and high-per
 
 <p align="center">
   <img 
-    width="40%" 
+    width="50%" 
     height="180em" 
     style="margin-right: 20px;" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=codewithashishKumar&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
   />
   
   <img 
-    width="40%" 
+    width="50%" 
     height="180em" 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codewithashishKumar&layout=compact&theme=tokyonight"
   />
